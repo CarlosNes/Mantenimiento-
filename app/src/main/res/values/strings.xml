@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mantenimiento</string>
+    <string name="app_name">TuApp</string>
+    <string name="username_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button_text">Ingresar</string>
+    <string name="register_text">Registrar</string>
+    <string name="logo_description">Logo de la Universidad</string>
+</resources>
